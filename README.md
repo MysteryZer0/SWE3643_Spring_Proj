@@ -59,11 +59,13 @@ For the user without the IDE
    
    ex) For my case it is "C:\Users\jhlee\Desktop\webcalculator\webcalculator\src\test\java\com\Junhyeok\webcalculator"
 4. Type in "javac WebcalculatorApplicationTests.java" to compile
-5. Type in "javac WebcalculatorApplicationTests.java" to run
+5. Type in "javac WebcalculatorApplicationTests.java" to run<br>`
+
+
 
 **WebcalculatorApplication.java**
 
-<img width="1189" alt="test file" src="https://github.com/MysteryZer0/SWE3643_Spring_Proj/assets/159580266/29976585-544a-482f-ad15-7920659ad8fb">
+<img width="1189" alt="test file" src="https://github.com/MysteryZer0/SWE3643_Spring_Proj/assets/159580266/29976585-544a-482f-ad15-7920659ad8fb"><br>`
 
 
 
@@ -77,8 +79,12 @@ For the user without the IDE
 4. Type in "javac WebcalculatorApplication.java" to compile
 5. Type in "java WebcalculatorApplication.java" to run
 
+
 **Unit Test**
-***note** For some reason when I right-click and look for the unit test I do not get the option to perform the test
+***note** For some reason when I right-click and look for the unit test I do not get the option to perform the test<br>`
+
+
+
 
 Video 
 ---

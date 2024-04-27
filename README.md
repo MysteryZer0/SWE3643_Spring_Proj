@@ -18,7 +18,7 @@ Junhyeok Lee
 Structure
 ---
 ![Blank diagram](https://github.com/MysteryZer0/SWE3643_Spring_Proj/assets/159580266/99e54369-262f-4116-9ee0-d8fb7e5755b4)
-Overview:
+**Overview:**
 
 The project is organized into several packages and classes to manage its functionality effectively. These include:
 
@@ -48,10 +48,11 @@ To run the program, you must set up the following application:
 3. Download the file from the repository: https://github.com/MysteryZer0/SWE3643_Spring_Proj
 
 
-Executing
+Executing the Web Application
 ---
 
 **Unit Testing**
+
 For the user without the IDE
 
 1. Open the terminal application
@@ -81,7 +82,8 @@ For the user without the IDE
 
 
 **Unit Test**
-***note** For some reason when I right-click and look for the unit test I do not get the option to perform the test<br>`
+
+***note** For some reason when I right-click and look for coverage statistics, I do not have the option to do so<br>`
 
 
 

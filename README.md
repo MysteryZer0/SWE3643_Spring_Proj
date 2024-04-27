@@ -64,7 +64,7 @@ For the user without the IDE
 
 
 
-**WebcalculatorApplication.java**
+**WebcalculatorApplicationTest.java**
 
 <img width="1189" alt="test file" src="https://github.com/MysteryZer0/SWE3643_Spring_Proj/assets/159580266/29976585-544a-482f-ad15-7920659ad8fb"><br>`
 

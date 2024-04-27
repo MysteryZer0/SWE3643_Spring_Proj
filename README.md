@@ -71,6 +71,7 @@ For the user without the IDE
 
 
 **Executing End-To-End Testing**
+
 For the user without the IDE
 
 1. Open the terminal application

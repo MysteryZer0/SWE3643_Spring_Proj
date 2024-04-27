@@ -44,5 +44,5 @@ Environment
 To run the program, you must set up the following application:
 
 1. Install the latest version of Java at: https://www.oracle.com/java/technologies/downloads/#java22
-2.
-3.
+2. Install the latest version of IntelliJ at: https://www.jetbrains.com/idea/download/?section=windows
+  

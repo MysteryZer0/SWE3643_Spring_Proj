@@ -50,16 +50,25 @@ Executing
 ---
 
 **Unit Testing**
+For the user without the IDE
+
 1. Open the terminal application
 2. type in "cd" followed by the directory
    ex) For my case it is "C:\Users\jhlee\Desktop\webcalculator\webcalculator\src\test\java\com\Junhyeok\webcalculator"
 3. Type in "javac WebcalculatorApplicationTests.java" to compile
 4. Type in "javac WebcalculatorApplicationTests.java" to run
 
+
 **Executing End-To-End Testing**
+For the user without the IDE
+
 1. Open the terminal application
 2. type in "cd" followed by the directory
    ex) For my case it is "C:\Users\jhlee\Desktop\webcalculator\webcalculator\src\main\java\com\Junhyeok\webcalculator"
 3. Type in "javac WebcalculatorApplication.java" to compile
 4. Type in "java WebcalculatorApplication.java" to run
+
+Video 
+---
+
 

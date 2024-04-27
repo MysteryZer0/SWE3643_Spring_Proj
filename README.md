@@ -45,4 +45,21 @@ To run the program, you must set up the following application:
 
 1. Install the latest version of Java at: https://www.oracle.com/java/technologies/downloads/#java22
 2. Install the latest version of IntelliJ at: https://www.jetbrains.com/idea/download/?section=windows
-  
+
+Executing
+---
+
+**Unit Testing**
+1. Open the terminal application
+2. type in "cd" followed by the directory
+   ex) For my case it is "C:\Users\jhlee\Desktop\webcalculator\webcalculator\src\test\java\com\Junhyeok\webcalculator"
+3. Type in "javac WebcalculatorApplicationTests.java" to compile
+4. Type in "javac WebcalculatorApplicationTests.java" to run
+
+**Executing End-To-End Testing**
+1. Open the terminal application
+2. type in "cd" followed by the directory
+   ex) For my case it is "C:\Users\jhlee\Desktop\webcalculator\webcalculator\src\main\java\com\Junhyeok\webcalculator"
+3. Type in "javac WebcalculatorApplication.java" to compile
+4. Type in "java WebcalculatorApplication.java" to run
+

@@ -45,6 +45,8 @@ To run the program, you must set up the following application:
 
 1. Install the latest version of Java at: https://www.oracle.com/java/technologies/downloads/#java22
 2. Install the latest version of IntelliJ at: https://www.jetbrains.com/idea/download/?section=windows
+3. Download the file from the repository: https://github.com/MysteryZer0/SWE3643_Spring_Proj
+
 
 Executing
 ---
@@ -54,9 +56,15 @@ For the user without the IDE
 
 1. Open the terminal application
 2. type in "cd" followed by the directory
+   
    ex) For my case it is "C:\Users\jhlee\Desktop\webcalculator\webcalculator\src\test\java\com\Junhyeok\webcalculator"
-3. Type in "javac WebcalculatorApplicationTests.java" to compile
-4. Type in "javac WebcalculatorApplicationTests.java" to run
+4. Type in "javac WebcalculatorApplicationTests.java" to compile
+5. Type in "javac WebcalculatorApplicationTests.java" to run
+
+**WebcalculatorApplication.java**
+
+<img width="1189" alt="test file" src="https://github.com/MysteryZer0/SWE3643_Spring_Proj/assets/159580266/29976585-544a-482f-ad15-7920659ad8fb">
+
 
 
 **Executing End-To-End Testing**
@@ -64,11 +72,15 @@ For the user without the IDE
 
 1. Open the terminal application
 2. type in "cd" followed by the directory
+   
    ex) For my case it is "C:\Users\jhlee\Desktop\webcalculator\webcalculator\src\main\java\com\Junhyeok\webcalculator"
-3. Type in "javac WebcalculatorApplication.java" to compile
-4. Type in "java WebcalculatorApplication.java" to run
+4. Type in "javac WebcalculatorApplication.java" to compile
+5. Type in "java WebcalculatorApplication.java" to run
+
+**Unit Test**
+***note** For some reason when I right-click and look for the unit test I do not get the option to perform the test
 
 Video 
 ---
-
+Video Link: https://www.youtube.com/watch?v=vI7i_JkmlqM
 
